@@ -1,0 +1,6 @@
+.DS_Store
+Pygeometric/datasets
+BaiDuPaperClassification/datasets
+**/__pycache__
+state.pkl
+PyG/datasets
